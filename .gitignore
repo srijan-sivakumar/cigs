@@ -1,0 +1,5 @@
+.env
+*.crt
+*.log
+*.bak
+*.db
