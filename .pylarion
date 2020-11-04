@@ -1,0 +1,10 @@
+# NOTE:
+# No need to fill any details below, only the file should exist
+# Pass the credentials in corresponding .env file
+[webservice]
+url=
+svn_repo=
+user=
+password=
+default_project=
+cert_path=

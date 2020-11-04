@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+isort = "*"
+yapf = "*"
+pylint = "*"
+flake8 = "*"
+pdoc3 = "*"
+
+[packages]
+jira = "*"
+pygerrit2 = "*"
+pylarion = {git = "https://gitlab.cee.redhat.com/ccit/pylarion/"}
+jsonrpcserver = "*"
+flask = "*"
+pyjwt = "*"
+waitress = "*"
+python-dotenv = "*"
+requests = "*"
+
+[requires]
+python_version = "3.8"
