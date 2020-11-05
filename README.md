@@ -3,7 +3,7 @@
 The program in this repo **isn't** intented to be used without any modifications and so no packaging options are provided. It contains a flask based app with simple authorization and authentication scheme. The service is supposed to be run behind a firewall/VPN as this possibly access your production environment.
 
 ## Background
-The abstract was proposed to [qecamp](https://www.qecamp.com/) and this script is the implementation of that proposal.
+The abstract was proposed to [qecamp](https://www.qecamp.com/proposals/27/2221)(Make sure to follow correct link after login) and this script is the implementation of that proposal.
 Below resources are available to only Red Hat associates (links are coming soon):
 - [Slide deck]
 - [Talk]
@@ -63,7 +63,7 @@ Access to a terminal(and obviously be online) is the only requirement for consum
 
 Generated from [pdoc](https://pdoc3.github.io/pdoc/) and saved to [rpc_service.html](html/rpc_service.html), run `~/cigs $ python -m http.server -d html`and access your browser for documentation.
 
-For live documentation, install dev dependencies too, run `$ pdoc3 -http : rpc_service.py` and point your browser to `localhost:8080`.
+For live documentation, install dev dependencies too, run `(cigs) $ pdoc3 -http : rpc_service.py` and point your browser to `localhost:8080`.
 
 ## Examples
 

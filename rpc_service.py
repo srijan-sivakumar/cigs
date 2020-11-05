@@ -33,7 +33,7 @@
 "jsonrpc":"2.0","params":{"name": $user, "jsessionid":$cookie_string}, \
 "method":"get_token"}' url:port/public
 
-For more info refer [Github]( https://github.com/leelavg/cigs/README.md ) repo.
+For more info refer [Github]( https://github.com/leelavg/cigs ) repo.
 '''
 
 import datetime

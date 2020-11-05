@@ -9,7 +9,7 @@
 # 1. $ pipenv shell
 # 2. Set any required env vars like: $ SOME_VAR=SOME_VAL flask run
 #  or provide a different env file: $ DOTENV_PATH=/path/to/file flask run
-# 3. and run `$ perl test_rpc_service.t`
+# 3. and run `$ perl test_rpc_service.pl`
 
 # WARNING: Use a separate SHELF_NAME for testing
 
